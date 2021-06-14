@@ -14,5 +14,8 @@ A curated list of web service for dev.
 - [httpbin\.org](https://httpbin.org/) - HTTP Request & Response Service.
 - [Dig)](https://toolbox.googleapps.com/apps/dig/) - DNS lookup utility
 
+## Date and Time
+- [Time\.is](https://time.is/) - displays exact, official atomic clock time for any time zone.
+
 ## Another Collections
 - [Dans Tools \- Online tools for users and developers\.](https://www.danstools.com/)
