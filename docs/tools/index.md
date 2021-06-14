@@ -12,6 +12,7 @@ A curated list of web service for dev.
 - [Encode/Decode](https://toolbox.googleapps.com/apps/encode_decode/) - encode decode tool for base64, URL Encode, SAML, Quoted-Printable.
 - [regex101](https://regex101.com/) - build, test, and debug regex
 - [Strong Password Generator \| Best Password Strength \| 1Password](https://1password.com/password-generator/)
+- [JSON Web Tokens Debugger](https://jwt.io/) - by auth0
 
 ## Network
 - [httpbin\.org](https://httpbin.org/) - HTTP Request & Response Service.
