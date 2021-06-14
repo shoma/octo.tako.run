@@ -4,6 +4,7 @@ A curated list of web service for dev.
 - [The Go Playground](https://play.golang.org/) - compiles and executes arbitrary Go code and returns the program output.
 - [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) - Python in your browser, Jupyter notebooks hosted by Google. [create a new Colab notebook](https://colab.research.google.com/#create=true).
 - [python\.org/shell](https://www.python.org/shell/) - Online console from [PythonAnywhere](https://www.pythonanywhere.com/).
+- [Kotlin Playground](https://play.kotlinlang.org/) - Edit, Run, Share Kotlin Code Online.
 
 ## Data
 - [jq play](https://jqplay.org/) - playground for [jq](https://github.com/stedolan/jq) JSON processor.
