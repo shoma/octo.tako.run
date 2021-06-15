@@ -6,6 +6,9 @@ A curated list of web service for dev.
 - [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) - Python in your browser, Jupyter notebooks hosted by Google. [create a new Colab notebook](https://colab.research.google.com/#create=true).
 - [python\.org/shell](https://www.python.org/shell/) - Online console from [PythonAnywhere](https://www.pythonanywhere.com/).
 - [Kotlin Playground](https://play.kotlinlang.org/) - Edit, Run, Share Kotlin Code Online.
+- [TS Playground](https://www.typescriptlang.org/play) - An online editor for exploring TypeScript and JavaScript.
+- [JSFiddle](https://jsfiddle.net/) - est your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
+- [CodeSandbox](https://codesandbox.io/) - Online Code Editor and IDE for Rapid Web Development.
 
 ## Data
 - [jq play](https://jqplay.org/) - playground for [jq](https://github.com/stedolan/jq) JSON processor.
