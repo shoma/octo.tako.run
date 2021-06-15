@@ -24,6 +24,8 @@ A curated list of web service for dev.
 
 ## Date and Time
 - [Time\.is](https://time.is/) - displays exact, official atomic clock time for any time zone.
+- [Stopwatch](https://www.google.com/search?q=Stopwatch) - by Google Search
+- [Timer](https://www.google.com/search?q=Timer) - by Google Search, e.g. `Timer for 5 min`
 
 ## Another Collections
 - [Dans Tools \- Online tools for users and developers\.](https://www.danstools.com/)
